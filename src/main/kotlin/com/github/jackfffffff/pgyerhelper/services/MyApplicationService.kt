@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jackfffffff.pgyerhelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jackfffffff.pgyerhelper.MyBundle
 
 class MyApplicationService {
 
